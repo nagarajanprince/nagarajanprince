@@ -1,4 +1,4 @@
-<img src='https://miro.medium.com/v2/resize:fit:1358/1*OnGaW0G7yDyxLOi5-ByF0A.png' alt="Fullstack Developer" width="100%" />
+<img src='https://github.com/nagarajanprince/images-asset/blob/master/assets/bg.png' alt="Fullstack Developer" width="100%" />
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Nagarajan+M;+Welcome+to+My+Profile!;Over+11+years+of+programming+experience;Always+learning+new+things+;AI+Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
