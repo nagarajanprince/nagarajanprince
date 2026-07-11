@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nagarajan+Mariyappan;Frontend+%26+Full-Stack+Developer;11%2B+Years+%7C+React+%C2%B7+TypeScript+%C2%B7+Node.js;Available+for+Freelance+%26+Contract+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nagarajan+Mariyappan;Frontend+%26+Full-Stack+Developer;11%2B+Years+%7C+React+%C2%B7+TypeScript+%C2%B7+Node.js;Available+for+Freelance+%26+Consulting+Work)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/nagarajanprince)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarajan-mariyappan)
@@ -22,7 +22,7 @@ I'm a **Frontend & Full-Stack Developer** with **11+ years** of experience build
 - ⚡ Build **SaaS MVPs, dashboards, booking systems, and client/CRM tools** from scratch
 - 🤖 **AI Engineering** — AI Agents, Multi-Agent Systems, Prompt Engineering, Claude, MCP, LangChain/LangGraph, CrewAI, RAG pipelines
 - 🚀 Currently building **Family Vault AI** — a secure platform for Indian families to organize financial, legal & medical info
-- 💼 **Available for freelance & contract work** — MVPs, dashboards, and full-stack React/Node builds
+- 💼 **Available for freelance & consulting work** — MVPs, dashboards, and full-stack React/Node builds
 - 📫 Reach me at **nagarajanfree@outlook.com**
 
 ---
@@ -68,6 +68,6 @@ I'm a **Frontend & Full-Stack Developer** with **11+ years** of experience build
 
 <div align="center">
 
-**Let's build something.** Available for freelance & contract frontend/full-stack work → **nagarajanfree@outlook.com**
+**Let's build something.** Available for freelance & consulting frontend/full-stack work → **nagarajanfree@outlook.com**
 
 </div>
