@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nagarajan+Mariyappan;Development+Manager+%7C+Frontend+%26+React+Specialist;11%2B+Years+Building+for+the+Web;Available+for+Freelance+%26+Contract+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nagarajan+Mariyappan;Frontend+%26+Full-Stack+Developer;11%2B+Years+%7C+React+%C2%B7+TypeScript+%C2%B7+Node.js;Available+for+Freelance+%26+Contract+Work)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/nagarajanprince)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarajan-mariyappan)
@@ -16,13 +16,13 @@
 
 ## 👋 About Me
 
-I'm a **Development Manager (UI/Frontend)** at Standard Chartered GBS with **11+ years** of experience building production frontend systems — from micro-frontend architectures serving large-scale banking platforms to greenfield SaaS products. I lead frontend engineering teams by day and build focused freelance/contract work on the side.
+I'm a **Frontend & Full-Stack Developer** with **11+ years** of experience building production-grade web applications — from large-scale enterprise systems to greenfield SaaS products. I help businesses and founders ship fast, reliable React/Node applications, end to end.
 
-- 🏦 Currently leading frontend engineering at **Standard Chartered GBS**, Chennai
 - 🧩 Specialize in **React, TypeScript, GraphQL & micro-frontend architecture** at scale
+- ⚡ Build **SaaS MVPs, dashboards, booking systems, and client/CRM tools** from scratch
 - 🤖 Actively building with **AI tooling** — GitHub Copilot, MCP (Model Context Protocol), AI agent workflows
 - 🚀 Currently building **Family Vault AI** — a secure platform for Indian families to organize financial, legal & medical info
-- 💼 **Open to freelance and contract work** — SaaS MVPs, dashboards, and React/Node builds
+- 💼 **Available for freelance & contract work** — MVPs, dashboards, and full-stack React/Node builds
 - 📫 Reach me at **nagarajanfree@outlook.com**
 
 ---
@@ -76,34 +76,25 @@ I'm a **Development Manager (UI/Frontend)** at Standard Chartered GBS with **11+
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 | Project | Description | Tech |
 |---|---|---|
 | [**Family Vault AI**](https://github.com/nagarajanprince) | Secure AI-powered platform for Indian families to organize financial, legal & medical records for emergency and estate planning | React · React Native · TypeScript · AI |
 | [**CRMLite**](https://github.com/nagarajanprince/CRMLite) | Client management dashboard with JWT auth, project/invoice tracking, and revenue analytics | React · Node.js · JWT |
 | [**SaasTemp**](https://github.com/nagarajanprince/SaasTemp) | SaaS starter template with subscription billing, auth, and onboarding flow | React · Node.js · Stripe |
+| [**BookingSys**](https://github.com/nagarajanprince/BookingSys) | Appointment booking system with admin dashboard, reminders & calendar integration | React · Node.js · Express · MongoDB |
+| [**EBill**](https://github.com/nagarajanprince/EBill) | Invoice generator with tax calculation, PDF export, and paid/unpaid tracking | React · Node.js · SQL |
 | [**Stock Tracker**](https://github.com/nagarajanprince/stocktracker) | Real-time portfolio and stock tracking application | React · TypeScript |
 
 *More on my [portfolio site](https://github.com/nagarajanprince) →*
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nagarajanprince&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajanprince&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagarajanprince&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
-
-</div>
+> 💡 Each project above is a working build — not a template. Clone, run, or ask for a live demo link.
 
 ---
 
 <div align="center">
 
-**Let's build something.** Reach out for freelance/contract frontend & full-stack work → **nagarajanfree@outlook.com**
+**Let's build something.** Available for freelance & contract frontend/full-stack work → **nagarajanfree@outlook.com**
 
 </div>
